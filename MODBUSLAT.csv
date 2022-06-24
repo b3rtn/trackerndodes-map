@@ -1,0 +1,80 @@
+lat,lon,server
+56,24,Schneider Electric
+40.6449,-73.9583,TM221CE24TV1.0
+47,8,--Illegal Function Hex:01
+40.6449,-73.9583,SE-ElektronicG 02 90 00    _0D0      V03.07.13           
+56,24,--Illegal Function Hex:01
+47,8,Schneider Electric
+38.7967,-76.0489,TM221CE24TV1.0
+62,15,--Gateway Target Device Failed To Respond Hex:0b
+38,-97,Schneider Electric  BMX P34 2020v2.6
+46.9167,7.4667,--Illegal Function Hex:01
+45.1667,15.5,Schneider Electric  BMX P34 2020v3.3
+56,10,SE-ElektronicG 02 90 00    _040      V03.03.26           
+35.685,139.7514,SE-ElektronicG 02 90 00      
+60,-95,--Illegal Function Hex:01
+56,10,--Gateway Target Device Failed To Respond Hex:0b
+40,-4,--Illegal Function Hex:01
+46,15,ABB42V2.8.1
+-10,-55,--Illegal Function Hex:01
+39.9289,116.3883,Schneider Electric
+42.8333,12.8333,TM241CE24RV05.01.09.21
+57.4833,12.0667,--Illegal Function Hex:01
+39.0335,-77.4838,
+37.57,126.98,Schneider Electric  BMX P34 2020v2.6
+52,20,--Illegal Function Hex:01
+33.2581,-116.9821,--Illegal Function Hex:01
+54.2021,37.6443,--Illegal Function Hex:01
+40.4238,-3.56129999999999,--Illegal Function Hex:01
+49.75,15.5,--Gateway path unavailable Hex:0a
+62,15,--Illegal Function Hex:01
+42.8333,12.8333,Schneider ElectricTM241CE24T_UV04.00.06.26
+37.57,126.98,--Illegal Function Hex:01
+51.5167,7.44999999999999,AB Regin
+23.5,121,INVENSYS 
+60,-95,--Illegal Function Hex:01
+47,8,--Illegal Function Hex:01
+48.86,2.34999999999999,--Illegal Function Hex:01
+37.57,126.98,--Illegal Function Hex:01
+39.5645,-75.597,Solare Datensysteme GmbHxxxxxxV1.00
+38,-97,--Illegal Function Hex:01
+39,35,--Illegal Function Hex:01
+51.1,3.98330000000001,--Illegal Function Hex:01
+37.57,126.98,ABB37V2.7.2
+46.9167,7.4667,--Illegal Function Hex:01
+56,24,--Illegal Data Adress Hex:02
+39.9289,116.3883,--Illegal Function Hex:01
+58.55,15.05,--Illegal Function Hex:01
+37.57,126.98,--Illegal Function Hex:01
+48.6667,19.5,
+37.57,126.98,AB Regin
+50.35,7.59999999999999,--Illegal Function Hex:01
+37.57,126.98,--Illegal Function Hex:01
+25.0392,121.525,--Illegal Function Hex:01
+39,35,Solare Datensysteme GmbHxxxxxxV1.00
+37.5402,-122.3041,--Illegal Function Hex:01
+23.5,121,--Illegal Function Hex:01
+60,-95,Schneider Electric
+37.5985,126.9783,TM221CE16TV1.0
+43.88,125.3228,1232132
+48.6667,19.5,1231232112
+62,10,--Illegal Function Hex:01
+42.8333,12.8333,--Illegal Function Hex:01
+47.3667,8.55000000000001,--Illegal Function Hex:01
+38,-97,Schneider Electric
+25.0392,121.525,--Illegal Function Hex:01
+39,35,AB Regin
+62,15,--Illegal Function Hex:01
+42.2793,-71.245,SE-ElektronicG 02 90 00    _050      V03.03.26           
+23.5,121,--Illegal Data Adress Hex:02
+19.43,-99.13,--Illegal Function Hex:01
+37.57,126.98,--Illegal Function Hex:01
+37.57,126.98,--Illegal Function Hex:01
+37.57,126.98,--Illegal Function Hex:01
+40,-4,--Illegal Function Hex:01
+,,--Illegal Function Hex:01
+,,--Illegal Function Hex:01
+,,--Illegal Function Hex:01
+,,--Illegal Function Hex:01
+,,Schneider Electric
+,,TM221CE24TV1.0
