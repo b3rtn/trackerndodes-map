@@ -1,0 +1,80 @@
+lat,lon,server,ip,country
+56,24,Schneider Electric,188.69.134.85,Lithuania
+40.6449,-73.9583,TM221CE24TV1.0,108.162.6.11,United States
+47,8,--Illegal Function Hex:01,213.3.14.157,Switzerland
+40.6449,-73.9583,SE-ElektronicG 02 90 00    _0D0      V03.07.13           ,108.162.6.11,United States
+56,24,--Illegal Function Hex:01,188.69.134.85,Lithuania
+47,8,Schneider Electric,213.3.14.157,Switzerland
+38.7967,-76.0489,TM221CE24TV1.0,76.72.130.24,United States
+62,15,--Gateway Target Device Failed To Respond Hex:0b,195.210.53.141,Sweden
+38,-97,Schneider Electric  BMX P34 2020v2.6,166.247.150.182,United States
+46.9167,7.4667,--Illegal Function Hex:01,138.188.52.33,Switzerland
+45.1667,15.5,Schneider Electric  BMX P34 2020v3.3,85.114.63.206,Croatia
+56,10,SE-ElektronicG 02 90 00    _040      V03.03.26           ,194.182.85.38,Denmark
+35.685,139.7514,SE-ElektronicG 02 90 00      ,1.1.117.171,Japan
+60,-95,--Illegal Function Hex:01,96.1.2.156,Canada
+56,10,--Gateway Target Device Failed To Respond Hex:0b,80.91.1.226,Denmark
+40,-4,--Illegal Function Hex:01,95.124.254.106,Spain
+46,15,ABB42V2.8.1,188.199.133.5,Slovenia
+-10,-55,--Illegal Function Hex:01,187.45.24.47,Brazil
+39.9289,116.3883,Schneider Electric,118.24.252.213,China
+42.8333,12.8333,TM241CE24RV05.01.09.21,188.10.8.10,Italy
+57.4833,12.0667,--Illegal Function Hex:01,90.227.108.33,Sweden
+39.0335,-77.4838,,63.43.18.125,United States
+37.57,126.98,Schneider Electric  BMX P34 2020v2.6,112.184.165.202,Korea
+52,20,--Illegal Function Hex:01,109.241.143.187,Poland
+33.2581,-116.9821,--Illegal Function Hex:01,50.81.16.116,United States
+54.2021,37.6443,--Illegal Function Hex:01,109.195.189.246,Russian Federation
+40.4238,-3.56129999999999,--Illegal Function Hex:01,212.169.155.14,Spain
+49.75,15.5,--Gateway path unavailable Hex:0a,160.218.102.204,Czech Republic
+62,15,--Illegal Function Hex:01,178.16.221.172,Sweden
+42.8333,12.8333,Schneider ElectricTM241CE24T_UV04.00.06.26,37.207.87.250,Italy
+37.57,126.98,--Illegal Function Hex:01,121.184.177.144,Korea
+51.5167,7.44999999999999,AB Regin,80.144.177.247,Germany
+23.5,121,INVENSYS ,60.249.147.79,Taiwan
+60,-95,--Illegal Function Hex:01,70.25.151.31,Canada
+47,8,--Illegal Function Hex:01,176.127.241.44,Switzerland
+48.86,2.34999999999999,--Illegal Function Hex:01,80.14.78.203,France
+37.57,126.98,--Illegal Function Hex:01,220.93.230.18,Korea
+39.5645,-75.597,Solare Datensysteme GmbHxxxxxxV1.00,52.242.30.230,United States
+38,-97,--Illegal Function Hex:01,166.141.20.64,United States
+39,35,--Illegal Function Hex:01,5.26.90.74,Turkey
+51.1,3.98330000000001,--Illegal Function Hex:01,78.22.92.13,Belgium
+37.57,126.98,ABB37V2.7.2,121.156.223.69,Korea
+46.9167,7.4667,--Illegal Function Hex:01,138.188.50.7,Switzerland
+56,24,--Illegal Data Adress Hex:02,77.90.70.83,Lithuania
+39.9289,116.3883,--Illegal Function Hex:01,120.26.203.30,China
+58.55,15.05,--Illegal Function Hex:01,81.225.234.77,Sweden
+37.57,126.98,--Illegal Function Hex:01,119.200.184.135,Korea
+48.6667,19.5,,195.91.102.168,Slovakia
+37.57,126.98,AB Regin,59.1.246.154,Korea
+50.35,7.59999999999999,--Illegal Function Hex:01,91.67.160.217,Germany
+37.57,126.98,--Illegal Function Hex:01,121.180.230.144,Korea
+25.0392,121.525,--Illegal Function Hex:01,210.202.209.6,Taiwan
+39,35,Solare Datensysteme GmbHxxxxxxV1.00,46.104.82.87,Turkey
+37.5402,-122.3041,--Illegal Function Hex:01,65.21.246.222,United States
+23.5,121,--Illegal Function Hex:01,60.251.139.220,Taiwan
+60,-95,Schneider Electric,24.67.124.154,Canada
+37.5985,126.9783,TM221CE16TV1.0,1.231.29.26,Korea
+43.88,125.3228,1232132,218.62.117.52,China
+48.6667,19.5,1231232112,195.91.102.168,Slovakia
+62,10,--Illegal Function Hex:01,62.92.134.102,Norway
+42.8333,12.8333,--Illegal Function Hex:01,2.196.162.45,Italy
+47.3667,8.55000000000001,--Illegal Function Hex:01,81.62.202.74,Switzerland
+38,-97,Schneider Electric,166.161.225.108,United States
+25.0392,121.525,--Illegal Function Hex:01,175.99.141.90,Taiwan
+39,35,AB Regin,178.242.9.143,Turkey
+62,15,--Illegal Function Hex:01,217.209.253.178,Sweden
+42.2793,-71.245,SE-ElektronicG 02 90 00    _050      V03.03.26           ,209.80.137.39,United States
+23.5,121,--Illegal Data Adress Hex:02,211.20.202.115,Taiwan
+19.43,-99.13,--Illegal Function Hex:01,201.122.102.53,Mexico
+37.57,126.98,--Illegal Function Hex:01,112.185.150.94,Korea
+37.57,126.98,--Illegal Function Hex:01,222.105.125.133,Korea
+37.57,126.98,--Illegal Function Hex:01,220.87.149.61,Korea
+40,-4,--Illegal Function Hex:01,176.57.100.215,Spain
+,,--Illegal Function Hex:01,,
+,,--Illegal Function Hex:01,,
+,,--Illegal Function Hex:01,,
+,,--Illegal Function Hex:01,,
+,,Schneider Electric,,
+,,TM221CE24TV1.0,,
